@@ -1,0 +1,102 @@
+.page{
+	width: 950px;
+	height: 1500px;
+	/*background: red;*/
+	margin : 0 auto;
+}
+.hinh1{
+	width: 100%;
+	height: 300px;
+	background: yellow;
+}
+.test{
+	width: 50%;
+	height: 100%;
+	background: yellow;
+	float: left;
+	padding-left: 50px;
+}
+.hinh2{
+	width: 100%;
+	height: 290px;
+	background: black;
+}
+.cc{
+	width: 32.5%;
+	height: 280px;
+	/*background: red;*/
+	margin-left: 5px;
+	float: left;
+	padding-top: 10px;
+}
+.cc h2{
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+.cc img{
+	width: 50px;
+	height: 50px;
+	margin-left: 125px;
+}
+.hinh3{
+	width: 100%;
+	height: 500px;
+	/*background: blue;*/
+	padding-top: 30px;
+}
+.xecc{
+	width: 21%;
+	height: 32%;
+	background: yellow;
+	margin-left: 29px;
+	float: left;
+	padding: 2px 2px;
+
+}
+.xecc img{
+	width: 100%;
+	height:100%;
+}
+.chu{
+	width: 22%;
+	height: 38%;
+	background: white;
+	margin-left: 25px;
+	margin-top: 10px;
+	float: left;
+}
+button{
+	width: 120px;
+	height: 30px;
+	background: yellow;
+	margin-left: 45px;
+	border-radius : 10px 30px 10px 10px;
+	color: white;
+	border: none;
+}
+.hinh4{
+	width: 100%;
+	height: 590px;
+	/*background: green;*/
+	padding-top: 30px;
+}
+.cityhm{
+	width: 23%;
+	height: 70%;
+	/*background: brown;*/
+	margin-left: 10px;
+	float: left;
+	border: 3px solid gray;
+}
+.cityhm img{
+	width: 100%;
+	height: 35%;
+	object-fit: cover;
+}
+.cityhm h3{
+	text-align: center;
+}
+.cityhm button{
+	background: black;
+}
